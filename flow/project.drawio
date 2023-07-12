@@ -1,0 +1,43 @@
+<mxfile host="65bd71144e">
+    <diagram id="R47YfedOQA6HZ_0K51o0" name="Page-1">
+        <mxGraphModel dx="788" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="idUsuario&lt;br&gt;idRachadinha&lt;br&gt;titulo&lt;br&gt;site&lt;br&gt;quantidade&lt;br&gt;valor" style="edgeStyle=none;html=1;" edge="1" parent="1" source="3">
+                    <mxGeometry x="1" y="60" relative="1" as="geometry">
+                        <mxPoint x="360" y="159.99999999999994" as="targetPoint"/>
+                        <mxPoint x="-60" y="60" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="Rachadinha" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="idRachadinha&lt;br&gt;idLance&lt;br&gt;idUsuario&lt;br&gt;mensagem" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5">
+                    <mxGeometry x="1" y="50" relative="1" as="geometry">
+                        <mxPoint x="570" y="169.99999999999994" as="targetPoint"/>
+                        <mxPoint x="-50" y="50" as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="5" value="Lance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="510" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="id&#10;nome&#10;email&#10;senha&#10;" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="130" y="190" width="20" height="20" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
