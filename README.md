@@ -1,4 +1,4 @@
-# Primeiro MVP (Backend) - Engenharia de Software PUC-Rio (2023.2)
+# MVP 1 (Backend) - Engenharia de Software PUC-Rio (2023.2)
 
 O rachadinha.com é uma ferramenta que nasceu com objetivo de democratizar o acesso a produtos, permitindo que pessoas possam rachar o valor e produtos. A ferramenta é simples, e de fácil uso, basta criar uma rachadinha e aguardar que outros usuários entrem na rachadinha.
 
