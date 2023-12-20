@@ -19,6 +19,15 @@ Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal
 
 > É fortemente indicado o uso de ambientes virtuais do tipo [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
 
+1- Criar
+2- Ativar
+3- Desativar
+
+Como criar um virtal env:
+```
+python3 -m venv .env 
+```
+
 Como ativar um virtal env:
 ```
 source env/bin/activate 
