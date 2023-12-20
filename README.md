@@ -25,7 +25,7 @@ Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal
 
 Como criar um virtal env:
 ```
-python3 -m venv .env 
+python3 -m venv env 
 ```
 
 Como ativar um virtal env:
