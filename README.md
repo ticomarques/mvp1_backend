@@ -7,7 +7,7 @@ O rachadinha.com é uma ferramenta que nasceu com objetivo de democratizar o ace
 
 # Backend tecnologias
 
-O backend deste projeto foi desenvolido em Python com SQL Alchemy. Todas as dependencias podem ser consultadas no arquivo requirements.
+O back-end foi desenvolvido em python, virtual env, flask, SQLAlchemy, SQlite e FlaskOpenAPI3 (pydantic, swagger, redoc, rapiDoc).
 
 
 
